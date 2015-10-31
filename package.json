@@ -1,0 +1,32 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "opapa的技术博客",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opapa/blog.git"
+  },
+  "keywords": [
+    "javascript",
+    "js",
+    "webapp",
+    "html5",
+    "css3",
+    "java",
+    "python",
+    "ruby"
+  ],
+  "author": "opapa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/opapa/blog/issues"
+  },
+  "homepage": "https://github.com/opapa/blog#readme",
+  "dependencied":{
+    "marked":"^0.3.1"
+  }
+}
